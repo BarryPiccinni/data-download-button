@@ -1,5 +1,5 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)  
-![License](https://img.shields.io/github/license/your-username/download-button-demo)  
+![License](https://img.shields.io/github/license/BarryPiccinni/data-download-button)  
 ![Tests](https://img.shields.io/badge/tests-100%25-success)
 
 # 📦 Data Download Button Demo
